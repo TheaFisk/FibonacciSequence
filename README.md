@@ -1,3 +1,4 @@
+
 # Overview
 This project is an Erlang module that demonstrates core functional programming concepts through the Fibonacci sequence. The program computes individual Fibonacci numbers, generates sequences as lists, filters and sums those lists using lambda functions, classifies values with case expressions, and handles invalid input through structured exception handling. All results are printed to the terminal using formatted output.
  
