@@ -136,6 +136,7 @@ safe_call(N) ->
 
 fib_classify(N) when is_integer(N), N >= 0 ->
     Sequence = fib_list(N),
+    
     %% Use lists:map with a lambda containing a case...of block
     Classifier = fun(X) ->
         Label = case X of
