@@ -4,7 +4,7 @@ This project is an Erlang module that demonstrates core functional programming c
  
 My goal with this software was to explore the functional programming paradigm through a language purpose-built for it. I wanted to demonstrate my understanding of recursion, immutable data, pattern matching, and higher-order functions. This project showcases my ability to think in a functional style, apply guards and pattern clauses in place of conditional branching, and use Erlang's standard library to process lists cleanly and expressively.
  
-[Software Demo Video](INSERT_VIDEO_LINK_HERE)
+[Software Demo Video](https://youtu.be/TT3kJ1KxwaI)
  
 ---
  
